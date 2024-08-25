@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: /sitemap.xml
+Sitemap: https://jdyl.pages.dev/sitemap.xml
